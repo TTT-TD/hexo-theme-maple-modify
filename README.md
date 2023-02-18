@@ -8,7 +8,7 @@
 ## 安装方法
 ```bash
 cd /opt/hexo #进入博客目录
-git clone git@github.com:TTT-TD/hexo-theme-maple-modify.git themes/
+git clone https://github.com/TTT-TD/hexo-theme-maple-modify.git themes/
 vim _config.yml #编辑博客的配置文件
 ```
 ```diff
