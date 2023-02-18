@@ -1,0 +1,55 @@
+# Header
+nav:
+  Home: /
+  Archives: /archives
+  Categories: /category
+  Tags: /tag
+
+# favicon
+# favicon: /favicon.png
+favicon: /images/logo.svg
+# logo
+logo: /images/logo.svg
+
+# links
+links:
+  #Github: https://github.com/xbmlz
+  Telegram: https://t.me/impiuifu
+  RSS: /atom.xml
+  # ZhiHu:
+  # Twitter:
+  # Weibo:
+
+# analytics
+google_analytics:
+baidu_analytics:
+
+# mathjax
+fancybox: true
+
+# mathjax
+mathjax: true
+
+# echarts
+echarts: true
+
+# busuanzi
+busuanzi: true
+
+# mermaid
+mermaid:
+  enable: true
+  # Available themes: default | dark | forest | neutral
+  theme: default
+
+# giscus
+giscus:
+  enable: true
+  repo: TTT-TD/ttt-td.github.io
+  repo_id: R_kgDOI-LPoA
+  category: General
+  category_id: DIC_kwDOI-LPoM4CUQRB
+  mapping: title
+
+
+
