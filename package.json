@@ -1,21 +1,9 @@
 {
-  "name": "hexo-theme-maple-modify",
-  "version": "0.0.9",
-  "description": "Hexo Theme Maple",
-  "repository": "https://github.com/TTT-TD/hexo-theme-maple-modify",
-  "keywords": [
-    "hexo",
-    "theme",
-    "maple"
-  ],
-  "license": "MIT",
-  "files": [
-    "languages",
-    "layout",
-    "scripts",
-    "source",
-    "_config.yml",
-    "_config.yml.example",
-    "README.md",
-  ]
+  "name": "maple",
+  "version": "1.0.0",
+  "description": "修改自[xbmlz/hexo-theme-maple](https://github.com/xbmlz/hexo-theme-maple)",
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
