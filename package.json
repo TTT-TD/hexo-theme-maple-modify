@@ -1,8 +1,8 @@
 {
-  "name": "hexo-theme-maple",
-  "version": "0.0.8",
+  "name": "hexo-theme-maple-modify",
+  "version": "0.0.9",
   "description": "Hexo Theme Maple",
-  "repository": "https://github.com/xbmlz/hexo-theme-maple",
+  "repository": "https://github.com/TTT-TD/hexo-theme-maple-modify",
   "keywords": [
     "hexo",
     "theme",
@@ -15,7 +15,7 @@
     "scripts",
     "source",
     "_config.yml",
+    "_config.yml.example",
     "README.md",
-    "README.zh-CN.md"
   ]
 }
